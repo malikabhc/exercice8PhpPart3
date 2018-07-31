@@ -14,6 +14,11 @@
           $finally = $finally - 12;
           echo 'Enfin !!!! ';
         }
+
+        /*Autre possibilité boucle for
+        for ($finally = 200; $finally > 0; $finally -= 12) {
+          echo 'Enfin !!!! ';
+        }
       ?>
     </p>
   </body>
